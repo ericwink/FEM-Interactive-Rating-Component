@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [EricWink GitHub](https://github.com/ericwink/FEM-Interactive-Rating-Component)
-- Live Site URL: [https://fem-interactive-rating-component.netlify.app/]](https://fem-interactive-rating-component.netlify.app/)
+- Live Site URL: [https://fem-interactive-rating-component.netlify.app/](https://fem-interactive-rating-component.netlify.app/)
 
 ## My process
 
